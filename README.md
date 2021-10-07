@@ -1,1 +1,1 @@
-# vue_typing_app
+## YOUTUBEを参照してvue.jsタイピングアプリを作成
